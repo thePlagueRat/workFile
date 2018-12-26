@@ -4,9 +4,9 @@
 
 2.修改package json
 
-"scripts": {
+  "scripts": {
     "start": "node ."
- }
+   }
  
  修改为 "start": "electron ."
  
